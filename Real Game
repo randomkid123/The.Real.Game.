@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+    <style>
+    body {
+        background-color: 	#181818;
+    }
+        img {
+            height: 500px;
+            width: auto;
+        }
+        #heading{
+            color: 	#800000;
+            font-size: 46px;
+        }
+        #text1{
+            color: #FF0000;
+        }
+        #text2{
+            color:#FF0000;
+        }
+        #text3{
+            color:#FF0000;
+        }
+        #text4{
+            color: ;
+        }
+        #text5{
+            color: ;
+        }
+        #text6{
+            color: ;
+        }
+    </style>
+    <img src="https://tbncdn.freelogodesign.org/12ffc45b-de3d-40c0-9d28-1dc1d44d029b.png?1542124443825">
+    <h1 id="heading"></h1>
+    <p id="text1">Welcome to The Real Game we are community of gamers who review PC games and PC gaming products, with fair, unbiased reviews. We are a federation hoping to supply PC gamers with quality reviews to show them what is worth there money.</p>
+    <img src="https://c1.staticflickr.com/2/1844/44170663432_603fd2c020_b.jpg">
+        <p id="text2">We review what specs are useful to your PC and for what games you want to run.</p>
+    <img src="https://images.pexels.com/photos/74146/night-theme-numbers-gamer-gaming-74146.jpeg?cs=srgb&dl=gamer-gaming-keyboard-74146.jpg&fm=jpg">
+        <p id="text3"> We talk about common difficulties among gamers and how to help with them</p>
+    <img src="https://c1.staticflickr.com/2/1020/682390157_3d1f46917e_b.jpg">
+    <p id="text4"></p>
+</html>
